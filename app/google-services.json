@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "831699454471",
+    "project_id": "crud-20bd5",
+    "storage_bucket": "crud-20bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831699454471:android:f06a8073e7516fdd4278a2",
+        "android_client_info": {
+          "package_name": "com.kelompok2.resepinaja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NFLTQDWzPvRIZosPHmvwPKs7LtmQXG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831699454471:android:429ef3ab4a1839044278a2",
+        "android_client_info": {
+          "package_name": "com.kelompok2.uasmobpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NFLTQDWzPvRIZosPHmvwPKs7LtmQXG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831699454471:android:e47d668feb51fa334278a2",
+        "android_client_info": {
+          "package_name": "com.kelompok2.utsmobpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NFLTQDWzPvRIZosPHmvwPKs7LtmQXG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

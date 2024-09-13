@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ResepinAja</string>
+    <string name="bnv1">Beranda</string>
+    <string name="bnv2">Makanan</string>
+    <string name="bnv3">Minuman</string>
+    <string name="bnv4">Resep Harian</string>
+    <string name="resep_hari_ini">Resep Hari Ini</string>
+    <string name="resep_favorit">Resep Favorit</string>
+    <string name="makanan_atau_minuman">Makanan/Minuman</string>
+    <string name="senin">Senin</string>
+    <string name="selasa">Selasa</string>
+    <string name="rabu">Rabu</string>
+    <string name="kamis">Kamis</string>
+    <string name="jumat">Jumat</string>
+    <string name="sabtu">Sabtu</string>
+    <string name="minggu">Minggu</string>
+    <string name="gambar_makanan">Gambar Makanan</string>
+    <string name="belum_ditambahkan">Belum Ditambahkan</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="user">User!</string>
+    <string name="masukk">MASUK!</string>
+    <string name="daftarr">DAFTAR!</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="sandi">Sandi</string>
+    <string name="ulangi_sandi">Ulangi Sandi</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
